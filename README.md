@@ -15,7 +15,7 @@
 - Threads: `pthread_create/join`, mutex/cond → internal ring buffer
 
 ## Build
-  make
+    make
 
 ---
 
@@ -165,3 +165,4 @@ Repo Layout
     ├─ Makefile
 
     └─ README.md
+
